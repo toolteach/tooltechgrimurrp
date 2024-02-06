@@ -1,0 +1,1130 @@
+{
+  "gun_shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "gun_empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "gun_reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagout"
+    ]
+  },
+  "gun_reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagin"
+    ]
+  },
+  "reloadclick": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadclick"
+    ]
+  },
+  "reloadmagclick": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagclick"
+    ]
+  },
+  "outofammoclick": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "openbag": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:openbag"
+    ]
+  },
+  "fieldgun": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:fieldgun"
+    ]
+  },
+  "grenade_ready": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:grenade_pinout"
+    ]
+  },
+  "grenade_throw": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:grenade_throw"
+    ]
+  },
+  "grenade_explosion": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:warheadexplode"
+    ]
+  },
+  "rifle_kar98k.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "rifle_kar98k.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_kar98k.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_reload"
+    ]
+  },
+  "rifle_kar98k.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_close_bolt"
+    ]
+  },
+  "rifle_mosin.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_fire"
+    ]
+  },
+  "rifle_mosin.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_mosin.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_reload"
+    ]
+  },
+  "rifle_mosin.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_bolt_close"
+    ]
+  },
+  "rifle_mas36.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1903_fire"
+    ]
+  },
+  "rifle_mas36.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_mas36.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1903_bolt_close"
+    ]
+  },
+  "rifle_mas36.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1903_reload"
+    ]
+  },
+  "rifle_carcano.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_fire"
+    ]
+  },
+  "rifle_carcano.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_carcano.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_reload"
+    ]
+  },
+  "rifle_carcano.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_bolt_close"
+    ]
+  },
+  "rifle_enfield.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_fire"
+    ]
+  },
+  "rifle_enfield.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_enfield.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_reload"
+    ]
+  },
+  "rifle_enfield.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_bolt_close"
+    ]
+  },
+  "rifle_springfield.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1903_fire"
+    ]
+  },
+  "rifle_springfield.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_springfield.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1903_reload"
+    ]
+  },
+  "rifle_springfield.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1903_bolt_close"
+    ]
+  },
+  "rifle_arisaka.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "rifle_arisaka.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_arisaka.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_reload"
+    ]
+  },
+  "rifle_arisaka.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_close_bolt"
+    ]
+  },
+  "rifle_m1garand.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_garand_fire"
+    ]
+  },
+  "rifle_m1garand.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_m1garand.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_garand_reload_start"
+    ]
+  },
+  "rifle_m1garand.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_garand_bolt_close"
+    ]
+  },
+  "rifle_m1carbine.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_carbine_fire"
+    ]
+  },
+  "rifle_m1carbine.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_m1carbine.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_carbine_mag_out"
+    ]
+  },
+  "rifle_m1carbine.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_carbine_mag_in"
+    ]
+  },
+  "rifle_gewehr43.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "rifle_gewehr43.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "rifle_gewehr43.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_carbine_mag_out"
+    ]
+  },
+  "rifle_gewehr43.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_carbine_mag_in"
+    ]
+  },
+  "pistol_m1911.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/m1911_fire"
+    ]
+  },
+  "pistol_m1911.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "pistol_m1911.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/m1911_mag_out"
+    ]
+  },
+  "pistol_m1911.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/m1911_mag_in"
+    ]
+  },
+  "pistol_luger.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/luger_fire"
+    ]
+  },
+  "pistol_luger.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "pistol_luger.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/luger_mag_out"
+    ]
+  },
+  "pistol_luger.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/luger_mag_in"
+    ]
+  },
+  "pistol_revolver.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:bulletmedium"
+    ]
+  },
+  "pistol_revolver.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "pistol_revolver.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_garand_clip_eject"
+    ]
+  },
+  "pistol_revolver.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/m1_garand_clip_in"
+    ]
+  },
+  "pistol_c96.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/luger_fire"
+    ]
+  },
+  "pistol_c96.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "pistol_c96.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/luger_mag_out"
+    ]
+  },
+  "pistol_c96.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/luger_mag_in"
+    ]
+  },
+  "pistol_beretta.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/p38_fire"
+    ]
+  },
+  "pistol_beretta.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "pistol_beretta.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/p38_mag_out"
+    ]
+  },
+  "pistol_beretta.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/p38_mag_in"
+    ]
+  },
+  "pistol_waltherpp.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/p38_fire"
+    ]
+  },
+  "pistol_waltherpp.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "pistol_waltherpp.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/p38_mag_out"
+    ]
+  },
+  "pistol_waltherpp.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/p38_mag_in"
+    ]
+  },
+  "pistol_nambu.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/m1911_fire"
+    ]
+  },
+  "pistol_nambu.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "pistol_nambu.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/m1911_mag_out"
+    ]
+  },
+  "pistol_nambu.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/m1911_mag_in"
+    ]
+  },
+  "shotgun_m97.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:bulletshotgun"
+    ]
+  },
+  "shotgun_m97.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "shotgun_m97.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagout"
+    ]
+  },
+  "shotgun_m97.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadshotgun"
+    ]
+  },
+  "flamethrower.shoot": {
+    "replace": false,
+    "sounds": [
+      "minecraft:entity.blaze.shoot"
+    ]
+  },
+  "flamethrower.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "flamethrower.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadslide"
+    ]
+  },
+  "flamethrower.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadclick"
+    ]
+  },
+  "smg_bar1918.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/kar98_for_bar1918_fire"
+    ]
+  },
+  "smg_bar1918.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_bar1918.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/bar1918_mag_out"
+    ]
+  },
+  "smg_bar1918.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/bar1918_mag_in"
+    ]
+  },
+  "smg_bergmann18.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/m1911_fire"
+    ]
+  },
+  "smg_bergmann18.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_bergmann18.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/thompson_mag_out"
+    ]
+  },
+  "smg_bergmann18.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/thompson_mag_in"
+    ]
+  },
+  "smg_thompson_m1a1.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/thompson_fire"
+    ]
+  },
+  "smg_thompson_m1a1.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_thompson_m1a1.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/bar1918_mag_out"
+    ]
+  },
+  "smg_thompson_m1a1.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/bar1918_mag_in"
+    ]
+  },
+  "smg_ppsh41.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/m3_fire"
+    ]
+  },
+  "smg_ppsh41.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_ppsh41.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/thompson_mag_out"
+    ]
+  },
+  "smg_ppsh41.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/thompson_mag_in"
+    ]
+  },
+  "smg_mp40.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/p38_fire"
+    ]
+  },
+  "smg_mp40.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_mp40.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/mp40_mag_out"
+    ]
+  },
+  "smg_mp40.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/mp40_mag_insert"
+    ]
+  },
+  "smg_beretta1938.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/bar1918_fire"
+    ]
+  },
+  "smg_beretta1938.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_beretta1938.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/m3_mag_out"
+    ]
+  },
+  "smg_beretta1938.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/m3_mag_in"
+    ]
+  },
+  "smg_sten.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/sten_fire"
+    ]
+  },
+  "smg_sten.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_sten.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/sten_mag_out"
+    ]
+  },
+  "smg_sten.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/sten_mag_in"
+    ]
+  },
+  "smg_stg44.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/stg44_fire"
+    ]
+  },
+  "smg_stg44.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_stg44.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/stg44_mag_out"
+    ]
+  },
+  "smg_stg44.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/stg44_mag_in"
+    ]
+  },
+  "smg_m3.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/m3_fire"
+    ]
+  },
+  "smg_m3.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_m3.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/m3_mag_out"
+    ]
+  },
+  "smg_m3.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/m3_mag_in"
+    ]
+  },
+  "smg_fg42.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:pistol/luger_fire"
+    ]
+  },
+  "smg_fg42.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "smg_fg42.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/mp40_mag_out"
+    ]
+  },
+  "smg_fg42.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:smg/mp40_mag_insert"
+    ]
+  },
+  "lmg_zbvz26.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/m1919_fire"
+    ]
+  },
+  "lmg_zbvz26.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "lmg_zbvz26.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/m1919_hatch_open"
+    ]
+  },
+  "lmg_zbvz26.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/m1919_bolt"
+    ]
+  },
+  "lmg_dp27.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/mg42_fire"
+    ]
+  },
+  "lmg_dp27.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "lmg_dp27.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/mg42_drum_out"
+    ]
+  },
+  "lmg_dp27.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/mg42_drum_in"
+    ]
+  },
+  "lmg_bren.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/bren_fire"
+    ]
+  },
+  "lmg_bren.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "lmg_bren.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/bren_mag_out"
+    ]
+  },
+  "lmg_bren.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/m1919_bolt"
+    ]
+  },
+  "lmg_type99.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/mg34_bolt"
+    ]
+  },
+  "lmg_type99.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "lmg_type99.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/m1919_hatch_open"
+    ]
+  },
+  "lmg_type99.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/mg42_bolt"
+    ]
+  },
+  "hmg_mg34.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:lmg/mg34_fire"
+    ]
+  },
+  "hmg_mg34.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "hmg_mg34.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagout"
+    ]
+  },
+  "hmg_mg34.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagin"
+    ]
+  },
+  "hmg_browning1919.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "hmg_browning1919.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "hmg_browning1919.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagout"
+    ]
+  },
+  "hmg_browning1919.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagin"
+    ]
+  },
+  "hmg_mg42.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "hmg_mg42.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "hmg_mg42.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagout"
+    ]
+  },
+  "hmg_mg42.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagin"
+    ]
+  },
+  "hmg_dshk.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "hmg_dshk.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "hmg_dshk.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagout"
+    ]
+  },
+  "hmg_dshk.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagin"
+    ]
+  },
+  "anti_tank_rifle.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/antitank_rifle_shoot"
+    ]
+  },
+  "anti_tank_rifle.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "anti_tank_rifle.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/lee_enfield_clip_insert"
+    ]
+  },
+  "anti_tank_rifle.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_close_bolt"
+    ]
+  },
+  "bazooka.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:antitank/bazooka_shoot"
+    ]
+  },
+  "bazooka.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "bazooka.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:openbag"
+    ]
+  },
+  "bazooka.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:antitank/bazooka_rocket_insert"
+    ]
+  },
+  "panzerfaust.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:rifle/kar98_fire"
+    ]
+  },
+  "panzerfaust.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "panzerfaust.reload_start": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagout"
+    ]
+  },
+  "panzerfaust.reload_finish": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:reloadmagin"
+    ]
+  },
+  "mortar.death": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:tank/tank_death"
+    ]
+  },
+  "mortar.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:mortar/mortar_fire"
+    ]
+  },
+  "mortar.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "mortar.reload_start": {
+    "replace": false,
+    "sounds": []
+  },
+  "mortar.reload_finish": {
+    "replace": false,
+    "sounds": []
+  },
+  "mortar.impact": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:mortar/mortar_shell_explode"
+    ]
+  },
+  "tank.death": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:tank/tank_death"
+    ]
+  },
+  "tank_he.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:tank/tank_fire"
+    ]
+  },
+  "tank_he.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "tank_he.reload_start": {
+    "replace": false,
+    "sounds": []
+  },
+  "tank_he.reload_finish": {
+    "replace": false,
+    "sounds": []
+  },
+  "tank_he.impact": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:tank/tank_shell_high_explosive"
+    ]
+  },
+  "tank_ap.shoot": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:tank/tank_fire"
+    ]
+  },
+  "tank_ap.empty": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:outofammoclick"
+    ]
+  },
+  "tank_ap.reload_start": {
+    "replace": false,
+    "sounds": []
+  },
+  "tank_ap.reload_finish": {
+    "replace": false,
+    "sounds": []
+  },
+  "tank_ap.impact": {
+    "replace": false,
+    "sounds": [
+      "grimurrp:tank/tank_shell_high_velocity_impact"
+    ]
+  },
+  "train_locomotive": {
+	"replace": false,
+	"sounds": [
+		"train_locomotive"
+	]
+  }
+}
